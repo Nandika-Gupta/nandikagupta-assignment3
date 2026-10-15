@@ -1,1 +1,3 @@
-# nandikagupta-assignment3
+# VDUI Unit 3 Assignment
+
+Submission for Unit 3 - PPT 1, 3
